@@ -1,0 +1,11 @@
+F:\2017\27_MoveWindow\MoveWindow\MoveWindow\bin\Debug\MoveWindow.exe.config
+F:\2017\27_MoveWindow\MoveWindow\MoveWindow\bin\Debug\MoveWindow.exe
+F:\2017\27_MoveWindow\MoveWindow\MoveWindow\obj\Debug\MoveWindow.csprojResolveAssemblyReference.cache
+F:\2017\27_MoveWindow\MoveWindow\MoveWindow\obj\Debug\MoveWindow.csproj.GenerateResource.Cache
+F:\2017\27_MoveWindow\MoveWindow\MoveWindow\obj\Debug\MoveWindow.exe
+F:\2017\27_MoveWindow\MoveWindow\MoveWindow\obj\Debug\MoveWindow.pdb
+F:\2017\27_MoveWindow\MoveWindow\MoveWindow\bin\Debug\MoveWindow.pdb
+F:\2017\27_MoveWindow\MoveWindow\MoveWindow\bin\Debug\Gma.System.MouseKeyHook.dll
+F:\2017\27_MoveWindow\MoveWindow\MoveWindow\obj\Debug\SpaceCG.Form1.resources
+F:\2017\27_MoveWindow\MoveWindow\MoveWindow\obj\Debug\SpaceCG.Properties.Resources.resources
+F:\2017\27_MoveWindow\MoveWindow\MoveWindow\obj\Debug\SpaceCG.SettingDisplay.resources
